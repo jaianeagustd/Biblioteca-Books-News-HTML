@@ -1,0 +1,25 @@
+{
+    "products": [
+      { "id": 1, "title": "Todas as suas Imperfeições", "src": "https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg", "author": "Colleen Hoover", "price": "R$ 54,90" },
+      { "id": 2, "title": "Confesse", "src": "https://m.media-amazon.com/images/I/91JhEqiauUL._SY425_.jpg", "author": "Colleen Hoover", "price":"R$ 54,90"},
+      { "id": 3, "title": "As Mil partes do meu Coração", "src": "https://m.media-amazon.com/images/I/814pUv-EGbL._SY425_.jpg","author": "Colleen Hoover", "price": "R$ 54,90"},
+      { "id": 4, "title": "Verity", "src": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._SY425_.jpg", "author": "Colleen Hoover", "price": "R$ 54,90"},
+      { "id": 5, "title": "Tarde Demais", "src": "https://m.media-amazon.com/images/I/51lZcAhVcmL._SY445_SX342_.jpg", "author": "Colleen Hoover", "price": "R$ 54,90"},
+      { "id": 6, "title": "O Herdeiro Roubado", "src": "https://m.media-amazon.com/images/I/81wtriCY5aL._AC_SL1500_.jpg", "author": "Holly Black", "price": "R$ 59,90"},
+      { "id": 7, "title": "O Príncipe Cruel", "src": "https://i.pinimg.com/564x/9f/f1/e4/9ff1e4a05e4ec1448ed516d10ffd0237.jpg", "author": "Holly Black", "price": "R$ 59,90"},
+      { "id": 8, "title": "O Rei Perverso", "src": "https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_SL1500_.jpg", "author": "Holly Black", "price": "R$ 59,90"},
+      { "id": 9, "title": "A Rainha do Nada", "src": "https://i.pinimg.com/564x/e8/31/8c/e8318cf9c36c1ddaeed0b4bdf9bf70df.jpg", "author": "Holly Black", "price": "R$ 59,90"},
+      { "id": 10, "title": "Como o Rei de Elfhame aprendeu a odiar Histórias", "src": "https://i.pinimg.com/564x/6d/16/ce/6d16cebd09865e833456cf4f6af662ec.jpg", "author": "Holly Black", "price": "R$ 79,90"},
+      { "id": 11, "title": "Trono de Vidro", "src": "https://m.media-amazon.com/images/I/41oQAhCM3oL.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
+      { "id": 12, "title": "Corte de Espinhos e Rosas", "src": "https://livrariavistapatria.com.br/image/cache/data/api/produtos/19532-515x800.jpg?1652116317", "author": "Sarah J Maas", "price": "R$ 54,90"},
+      { "id": 13, "title": "Corte de Névoa e Fúria", "src": "https://m.media-amazon.com/images/I/81PGQZ8qBlL._AC_UF1000,1000_QL80_.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
+      { "id": 14, "title": "Corte de Asas e Ruína", "src": "https://m.media-amazon.com/images/I/91IWJY6FvtL._AC_UF894,1000_QL80_.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
+      { "id": 15, "title": "Corte de Chamas Prateadas", "src": "https://m.media-amazon.com/images/I/61YLUKWCPjS._SY445_SX342_.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
+      { "id": 16, "title": "A Seleção", "src": "https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg", "author": "Kiera Cass", "price": "R$ 42,90"},
+      { "id": 17, "title": "A Elite", "src": "https://m.media-amazon.com/images/I/91ILPH1tDSL._AC_UF1000,1000_QL80_.jpg", "author": "Kiera Cass", "price": "R$ 41,90"},
+      { "id": 18, "title": "A Escolha", "src": "https://images-na.ssl-images-amazon.com/images/I/81htmSSRhXL._AC_UL900_SR615,900_.jpg", "author": "Kiera Cass", "price": "R$ 23,90"},
+      { "id": 19, "title": "A Herdeira", "src": "https://m.media-amazon.com/images/I/915F+LWJeqL._AC_UF1000,1000_QL80_.jpg", "author": "Kiera Cass", "price": "R$ 21,90"},
+      { "id": 20, "title": "A Coroa", "src": "https://i.pinimg.com/564x/c1/c8/91/c1c89175573be10046a2866415a124ca.jpg", "author": "Kiera Cass", "price": "R$ 42,90"}
+      
+    ]
+  }
