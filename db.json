@@ -1,25 +1,166 @@
 {
     "products": [
-      { "id": 1, "title": "Todas as suas Imperfeições", "src": "https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg", "author": "Colleen Hoover", "price": "R$ 54,90" },
-      { "id": 2, "title": "Confesse", "src": "https://m.media-amazon.com/images/I/91JhEqiauUL._SY425_.jpg", "author": "Colleen Hoover", "price":"R$ 54,90"},
-      { "id": 3, "title": "As Mil partes do meu Coração", "src": "https://m.media-amazon.com/images/I/814pUv-EGbL._SY425_.jpg","author": "Colleen Hoover", "price": "R$ 54,90"},
-      { "id": 4, "title": "Verity", "src": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._SY425_.jpg", "author": "Colleen Hoover", "price": "R$ 54,90"},
-      { "id": 5, "title": "Tarde Demais", "src": "https://m.media-amazon.com/images/I/51lZcAhVcmL._SY445_SX342_.jpg", "author": "Colleen Hoover", "price": "R$ 54,90"},
-      { "id": 6, "title": "O Herdeiro Roubado", "src": "https://m.media-amazon.com/images/I/81wtriCY5aL._AC_SL1500_.jpg", "author": "Holly Black", "price": "R$ 59,90"},
-      { "id": 7, "title": "O Príncipe Cruel", "src": "https://i.pinimg.com/564x/9f/f1/e4/9ff1e4a05e4ec1448ed516d10ffd0237.jpg", "author": "Holly Black", "price": "R$ 59,90"},
-      { "id": 8, "title": "O Rei Perverso", "src": "https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_SL1500_.jpg", "author": "Holly Black", "price": "R$ 59,90"},
-      { "id": 9, "title": "A Rainha do Nada", "src": "https://i.pinimg.com/564x/e8/31/8c/e8318cf9c36c1ddaeed0b4bdf9bf70df.jpg", "author": "Holly Black", "price": "R$ 59,90"},
-      { "id": 10, "title": "Como o Rei de Elfhame aprendeu a odiar Histórias", "src": "https://i.pinimg.com/564x/6d/16/ce/6d16cebd09865e833456cf4f6af662ec.jpg", "author": "Holly Black", "price": "R$ 79,90"},
-      { "id": 11, "title": "Trono de Vidro", "src": "https://m.media-amazon.com/images/I/41oQAhCM3oL.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
-      { "id": 12, "title": "Corte de Espinhos e Rosas", "src": "https://livrariavistapatria.com.br/image/cache/data/api/produtos/19532-515x800.jpg?1652116317", "author": "Sarah J Maas", "price": "R$ 54,90"},
-      { "id": 13, "title": "Corte de Névoa e Fúria", "src": "https://m.media-amazon.com/images/I/81PGQZ8qBlL._AC_UF1000,1000_QL80_.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
-      { "id": 14, "title": "Corte de Asas e Ruína", "src": "https://m.media-amazon.com/images/I/91IWJY6FvtL._AC_UF894,1000_QL80_.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
-      { "id": 15, "title": "Corte de Chamas Prateadas", "src": "https://m.media-amazon.com/images/I/61YLUKWCPjS._SY445_SX342_.jpg", "author": "Sarah J Maas", "price": "R$ 54,90"},
-      { "id": 16, "title": "A Seleção", "src": "https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg", "author": "Kiera Cass", "price": "R$ 42,90"},
-      { "id": 17, "title": "A Elite", "src": "https://m.media-amazon.com/images/I/91ILPH1tDSL._AC_UF1000,1000_QL80_.jpg", "author": "Kiera Cass", "price": "R$ 41,90"},
-      { "id": 18, "title": "A Escolha", "src": "https://images-na.ssl-images-amazon.com/images/I/81htmSSRhXL._AC_UL900_SR615,900_.jpg", "author": "Kiera Cass", "price": "R$ 23,90"},
-      { "id": 19, "title": "A Herdeira", "src": "https://m.media-amazon.com/images/I/915F+LWJeqL._AC_UF1000,1000_QL80_.jpg", "author": "Kiera Cass", "price": "R$ 21,90"},
-      { "id": 20, "title": "A Coroa", "src": "https://i.pinimg.com/564x/c1/c8/91/c1c89175573be10046a2866415a124ca.jpg", "author": "Kiera Cass", "price": "R$ 42,90"}
+      { 
+        "id": 1, 
+        "title": "Todas as suas Imperfeições", 
+        "src": "https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg", 
+        "author": "Colleen Hoover", 
+        "sinopse": "Em *Todas as suas (im)perfeições*, Colleen Hoover narra a história de Quinn e Graham, que se conhecem em um momento de crise e, após se reencontrarem, constroem um casamento perfeito. No entanto, a luta para ter um filho ameaça a relação. Hoover apresenta uma trama comovente sobre amor e desafios.", 
+        "price": 54.90 
+      },
+      { 
+        "id": 2, 
+        "title": "Confesse", 
+        "src": "https://m.media-amazon.com/images/I/91JhEqiauUL._SY425_.jpg", 
+        "author": "Colleen Hoover",
+        "sinopse": "Quando Auburn visita uma galeria de arte, ela se depara com uma confissão anônima que pode mudar sua vida. A história entrelaça segredos e paixão, revelando o poder de enfrentar o passado e encontrar a verdade.",
+        "price": 54.90
+      },
+      { 
+        "id": 3, 
+        "title": "As Mil partes do meu Coração", 
+        "src": "https://m.media-amazon.com/images/I/814pUv-EGbL._SY425_.jpg",
+        "author": "Colleen Hoover",
+        "sinopse": "A narrativa explora o impacto profundo da perda e da recuperação emocional em uma jovem que luta para reconciliar o passado com seu presente. Uma história tocante sobre amor, dor e o poder da cura.", 
+        "price": 54.90
+      },
+      { 
+        "id": 4, 
+        "title": "Verity", 
+        "src": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._SY425_.jpg", 
+        "author": "Colleen Hoover", 
+        "sinopse": "Lowen Ashleigh, uma escritora em dificuldades, é contratada para terminar uma série de livros de uma autora famosa e enigmática, Verity Crawford. À medida que Lowen mergulha nos manuscritos de Verity, ela descobre segredos perturbadores.",
+        "price": 54.90
+      },
+      { 
+        "id": 5, 
+        "title": "Tarde Demais", 
+        "src": "https://m.media-amazon.com/images/I/51lZcAhVcmL._SY445_SX342_.jpg", 
+        "author": "Colleen Hoover", 
+        "sinopse": "Lily Bloom enfrenta o desafio de equilibrar sua vida pessoal e profissional enquanto se apaixona por um homem que pode estar escondendo segredos perigosos. Uma história intensa sobre amor, escolhas difíceis e o confronto com o passado.",
+        "price": 54.90
+      },
+      { 
+        "id": 6, 
+        "title": "O Herdeiro Roubado", 
+        "src": "https://m.media-amazon.com/images/I/81wtriCY5aL._AC_SL1500_.jpg", 
+        "author": "Holly Black",
+        "sinopse": "Em um mundo de intrigas e traições, a jovem herdeira precisa lutar para recuperar o que é seu por direito. Entre alianças e traições, ela enfrenta perigos que desafiam sua força e coragem.", 
+        "price": 59.90
+      },
+      { 
+        "id": 7, 
+        "title": "O Príncipe Cruel", 
+        "src": "https://i.pinimg.com/564x/9f/f1/e4/9ff1e4a05e4ec1448ed516d10ffd0237.jpg", 
+        "author": "Holly Black", 
+        "sinopse": "Jude, uma mortal em um mundo de fadas, busca seu lugar no reino das fadas. Envolvida em uma intriga política e romance perigoso, ela deve enfrentar os desafios para conquistar o poder e sua própria identidade.",
+        "price": 59.90
+      },
+      { 
+        "id": 8, 
+        "title": "O Rei Perverso", 
+        "src": "https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_SL1500_.jpg", 
+        "author": "Holly Black",
+        "sinopse": "A batalha pelo trono continua enquanto Jude enfrenta novas ameaças e desafios no reino das fadas. Manipulações e segredos testam suas habilidades e sua lealdade em uma luta pelo poder.", 
+        "price": 59.90
+      },
+      { 
+        "id": 9, 
+        "title": "A Rainha do Nada", 
+        "src": "https://i.pinimg.com/564x/e8/31/8c/e8318cf9c36c1ddaeed0b4bdf9bf70df.jpg", 
+        "author": "Holly Black", 
+        "sinopse": "Jude deve confrontar seu passado e suas escolhas enquanto a luta pelo poder no reino das fadas atinge novos patamares. Em um cenário de traições e alianças incertas, ela busca o controle e sua própria redenção.",
+        "price": 59.90
+      },
+      { 
+        "id": 10, 
+        "title": "Como o Rei de Elfhame aprendeu a odiar Histórias", 
+        "src": "https://i.pinimg.com/564x/6d/16/ce/6d16cebd09865e833456cf4f6af662ec.jpg", 
+        "author": "Holly Black", 
+        "sinopse": "Uma coleção de contos que explora o passado do Rei de Elfhame e suas experiências que moldaram seu coração e suas atitudes. Cada história revela aspectos desconhecidos do temido rei e seu caminho para se tornar o que é.",
+        "price": 79.90
+      },
+
+      { 
+        "id": 11, 
+        "title": "Trono de Vidro", 
+        "src": "https://m.media-amazon.com/images/I/41oQAhCM3oL.jpg", 
+        "author": "Sarah J Maas", 
+        "sinopse": "Celaena Sardothien, uma assassina adolescente, é libertada de sua prisão para competir em um torneio para se tornar a campeã do rei. Em meio a traições e mistérios, ela descobre segredos que podem mudar seu destino.",
+        "price": 54.90
+      },
+      { 
+        "id": 12, 
+        "title": "Corte de Espinhos e Rosas", 
+        "src": "https://livrariavistapatria.com.br/image/cache/data/api/produtos/19532-515x800.jpg?1652116317", 
+        "author": "Sarah J Maas", 
+        "sinopse": "Feyre, uma caçadora, é levada para o reino das fadas após matar uma criatura mágica. Lá, ela descobre uma trama de magia e intriga, e seu destino está entrelaçado com o destino das fadas e o seu próprio coração.",
+        "price": 54.90
+      },
+      { 
+        "id": 13, 
+        "title": "Corte de Névoa e Fúria", 
+        "src": "https://m.media-amazon.com/images/I/81PGQZ8qBlL._AC_UF1000,1000_QL80_.jpg", 
+        "author": "Sarah J Maas",
+        "sinopse": "Após os eventos dramáticos de Corte de Espinhos e Rosas, Feyre enfrenta novos desafios e conflitos enquanto tenta lidar com as consequências de suas ações e encontrar seu lugar em um mundo de magia e guerra.", 
+        "price": 54.90
+      },
+      { 
+        "id": 14, 
+        "title": "Corte de Asas e Ruína", 
+        "src": "https://m.media-amazon.com/images/I/91IWJY6FvtL._AC_UF894,1000_QL80_.jpg", 
+        "author": "Sarah J Maas", 
+        "sinopse": "A guerra entre os reinos das fadas está iminente e Feyre deve lutar para proteger tudo o que ama. Entre alianças frágeis e batalhas épicas, ela enfrenta o maior desafio de sua vida.",
+        "price": 54.90
+      },
+      { 
+        "id": 15, 
+        "title": "Corte de Chamas Prateadas", 
+        "src": "https://m.media-amazon.com/images/I/61YLUKWCPjS._SY445_SX342_.jpg", 
+        "author": "Sarah J Maas", 
+        "sinopse": "Em uma nova era de magia e perigo, Feyre e seus aliados enfrentam ameaças inesperadas e descobrem novos poderes. A busca por justiça e equilíbrio leva a uma jornada cheia de emoção e descobertas.",
+        "price": 54.90
+      },
+      { 
+        "id": 16, 
+        "title": "A Seleção", 
+        "src": "https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg", 
+        "author": "Kiera Cass", 
+        "sinopse": "Em um futuro distópico, a jovem America Singer é selecionada para competir na competição real de seleção, onde 35 garotas lutam pelo coração do príncipe. Entre o glamour e o conflito, ela enfrenta escolhas que definem seu futuro.",
+        "price": 42.90
+      },
+      { 
+        "id": 17, 
+        "title": "A Elite", 
+        "src": "https://m.media-amazon.com/images/I/91ILPH1tDSL._AC_UF1000,1000_QL80_.jpg", 
+        "author": "Kiera Cass", 
+        "sinopse": "America continua sua jornada na competição real enquanto lida com suas emoções e lealdades divididas. A tensão aumenta à medida que as rivalidades crescem e os segredos ameaçam o futuro dela e do príncipe.",
+        "price": 41.90
+      },
+      { 
+        "id": 18,
+        "title": "A Escolha", 
+        "src": "https://images-na.ssl-images-amazon.com/images/I/81htmSSRhXL._AC_UL900_SR615,900_.jpg", 
+        "author": "Kiera Cass", 
+        "sinopse": "A competição para ganhar o coração do príncipe está chegando ao fim, e America deve tomar decisões difíceis que moldarão seu futuro. Entre amor e lealdade, ela enfrenta o maior desafio de sua vida.",
+        "price": 23.90
+      },
+      { 
+        "id": 19, 
+        "title": "A Herdeira", 
+        "src": "https://m.media-amazon.com/images/I/915F+LWJeqL._AC_UF1000,1000_QL80_.jpg", 
+        "author": "Kiera Cass", 
+        "sinopse": "A filha de America Singer entra na competição real, enfrentando desafios e rivalidades enquanto busca seu próprio caminho e amor. Em uma nova geração de seleções, ela deve equilibrar tradições e suas próprias escolhas.",
+        "price": 21.90
+      },
+      { 
+        "id": 20, 
+        "title": "A Coroa", 
+        "src": "https://i.pinimg.com/564x/c1/c8/91/c1c89175573be10046a2866415a124ca.jpg", 
+        "author": "Kiera Cass", 
+        "sinopse": "O final da competição real traz novas revelações e desafios para a nova herdeira. Ela deve enfrentar suas próprias dúvidas e lutar pelo amor e pelo futuro que deseja, encerrando uma era e começando outra.",
+        "price": 42.90
+      }
       
     ]
   }

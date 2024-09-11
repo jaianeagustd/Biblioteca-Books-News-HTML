@@ -4,10 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Books News - Todas as suas Imperfeições</title>
-  <script src="./script.js" type="text/javascript" defer></script>
-
-
   <link rel="stylesheet" href="style.css">
+
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -53,34 +51,12 @@
 <body>
   
 <nav-bar></nav-bar>
-<div class="container">
-  <div class="product">
-    <img style="height: 250px; width: 500px; margin: 10px;" src="https://m.media-amazon.com/images/I/81Vhnel+xxL._SY425_.jpg" alt="">
-    <div class="product-info" style="margin: 20px;">
-      <h1>Todas as suas Imperfeições - Colleen Hoover</h1>
-      <p style="margin: 50px; font-size: larger;"></p>
-        <h4 style="font-weight: 700;">Sinopse: </h4>
-        Uma inesquecível história da rainha do drama Colleen Hoover, Todas as suas (im)perfeições fala sobre um casamento conturbado e uma promessa esquecida que pode ser capaz de salvá-lo.
-
-        Todas as suas imperfeições narra a história de Quinn e Graham. Eles se conhecem no pior dia de suas vidas; ela chega mais cedo de uma viagem para surpreender o noivo, ele testemunha a traição da namorada. E é assim que ambos acabam no corredor de um prédio, trocando confidências, biscoitos da sorte e palavras de conforto.
-        
-        Fim da dança... se o destino não tivesse outros planos para os dois. Meses mais tarde, os acordes tocam para o casal mais uma vez e eles se reencontram. Graham está convencido de que são almas gêmeas. Quinn jamais se sentiu dessa forma antes. A intensidade do sentimento os assusta, mas eles mergulham de cabeça mesmo assim.
-        
-        O casamento é tudo o que sonhavam, a parceria perfeita. Mesmo nos momentos difíceis, sabem que podem contar com o outro. Nenhum deles desiste do amor que sentem. Até que a primeira nota dissonante abala a sinfonia do casal. Até que Quinn parece estar disposta a trocar tudo o que é pela única coisa que não consegue ser: mãe.
-        
-        A luta do casal por um filho arrisca os alicerces da relação. Quinn não pode engravidar. Graham não é um candidato para adoção por conta de um erro do passado. O impasse os deixa parados no salão, no silêncio. A orquestra está em suspenso. Os dois parecem surdos para a música do amor.
-        
-        Em Todas as suas imperfeições, Colleen coloca sua marca em mais uma obra comovente e inesquecível.</br>
-    </div>
-  </div>
-  <div>
-    <p style="margin: 20px; font-weight: 700; font-size: larger;">Preço: R$ 70,00</p>
-      <button class="btn btn-primary" style="background-color: rgb(77, 150, 235); margin: 20px;">Adicionar ao Carrinho</button>
-      <a href="carrinho.html"><button class="btn btn-primary" style="background-color: rgb(77, 150, 235); margin: 20px;">Comprar Agora</button></a>
-  </div>
+<div id="produto-container"></div>
+  
     <!-- Avaliações -->
-    <div class="reviews">
-      <h2>Avaliações:</h2>
+    
+    <div class="reviews" style="margin: 50px;">
+      <h2>Avaliações:</h2></br>
       <div class="review">
         <div class="rating">
           <span class="star">&#9733;</span>
@@ -113,6 +89,8 @@
 </div>
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="exibirProdutos.js" type="text/javascript" defer></script>
+    <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
 </body>
